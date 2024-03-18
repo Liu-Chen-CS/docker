@@ -1,7 +1,7 @@
 # Docker
 
 ### Virtual Machine vs Docker
-![Docker drawio (1)](https://github.com/Liu-Chen-CS/docker/assets/158779475/9e951878-70d8-41bb-aec2-20a38f56c06e)
+![Docker drawio (3)](https://github.com/Liu-Chen-CS/docker/assets/158779475/93081f3b-4582-4197-afdf-6a651617489a)
 
 |       |  **Virtual Machine**  |  **Docker**  |
 |-------|-------|-------|
@@ -10,6 +10,9 @@
 |**Speed**|`Slower` to start because it needs to boot up a whole operating system|`Starts quickly` because it doesn't need to boot up a separate OS|
 |**Management**|`Requires more setup` and maintenance as each VM is like a separate computer|`Easier` to manage as containers are quick to deploy using pre-built images|
 |**Isolation**|Provides `stronger isolation` as each VM has its own OS|Offers `lighter isolation` because they share the same OS kernel, but it's usually enough for most cases|
+
+### Docker use case
+![docker-usecase drawio (1)](https://github.com/Liu-Chen-CS/docker/assets/158779475/6e569873-d577-4ba8-b0a5-b35496f6a4b7)
 
 ### Image & Container & Repository
   - **Image**: An image is like a `snapshot` or `template` of a software application. It contains all the necessary `files`, `libraries`, and `configurations` needed to run the application.
