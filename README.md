@@ -1,8 +1,8 @@
 # Docker
 
 ### Virtual Machine vs Docker
+![Docker drawio (1)](https://github.com/Liu-Chen-CS/docker/assets/158779475/9e951878-70d8-41bb-aec2-20a38f56c06e)
 
-![Docker drawio](https://github.com/Liu-Chen-CS/docker/assets/158779475/8799c58d-8173-47dc-8be7-32898c9d767f)
 |       |  **Virtual Machine**  |  **Docker**  |
 |-------|-------|-------|
 |**How They Work**|It creates a `whole virtual computer` with its own `operating system` on a `physical server`|It runs applications in `isolated packages` that share the same operating system kernel of the `host machine`|
