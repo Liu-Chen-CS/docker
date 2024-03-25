@@ -34,8 +34,9 @@
 ### Docker Commend
 ![Snipaste_2024-03-25_11-03-44](https://github.com/Liu-Chen-CS/docker/assets/158779475/18e6b517-6370-4724-916a-ca0c168b0fd8)
 
-### NGINX Connection
-![Snipaste_2024-03-25_11-46-36](https://github.com/Liu-Chen-CS/docker/assets/158779475/6520725a-38e6-4ae2-875f-88804e7daab6)
+### nginx Connection
+![Snipaste_2024-03-25_13-52-00](https://github.com/Liu-Chen-CS/docker/assets/158779475/5197b9e3-c0c0-41ee-93a3-673394520a97)
+
 
 
 
