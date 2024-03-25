@@ -24,3 +24,11 @@
   - **Image**: An image is like a `snapshot` or `template` of a software application. It contains all the necessary `files`, `libraries`, and `configurations` needed to run the application.
   - **Container**: A container is a runtime `instance` of an image. It's a `lightweight`, `isolated environment` that runs the software application based on the instructions provided by the image.
   - **Repository**: A repository is a storage location where `Docker images` are stored and managed. It can be either public or private.
+
+### Docker Config
+  - yum -y install yum-utils
+  - yum-config-manager --add-repo https://download.docker.com/linux/centos/docker-ce.repo
+  - yum -y install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
+  - docker -v
+
+
